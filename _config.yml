@@ -7,20 +7,20 @@
 
 # Site settings
 title: 碧海长天
-brief-intro: Android and Python Coder
+brief-intro: golang develop
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://1923244321.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
-github_username:  1923244321
-email: 1923244321@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll1923244321
-linkedIn_username: gaohaoyang
+#twitter_username: #gaohaoyang126
+#facebook_username: #gaohaoyang.water
+github_username:  yuanshuli11
+email: 1923244321###qq.com
+#weibo_username: 3115521wh
+#zhihu_username: hll1923244321
+#linkedIn_username: gaohaoyang
 dribbble_username:
 
 description_footer: 来自碧海长天的个人专栏！
