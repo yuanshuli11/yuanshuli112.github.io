@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "这是徐代龙进行的第二篇文章"
+title:  "这是碧海长天进行的第二篇文章"
 categories: SnakeSon
 tags:  hexo JavaScript
 author: SnakeSon
@@ -20,46 +20,46 @@ author: SnakeSon
 
 ```js
 
-spencer@spencer-it1 MINGW64 /f/myself/643435675.github.io (master)
+spencer@spencer-it1 MINGW64 /f/myself/1923244321.github.io (master)
 $ gem install jekyll
 Successfully installed jekyll-3.6.2
 Parsing documentation for jekyll-3.6.2
 Done installing documentation for jekyll after 2 seconds
 1 gem installed
 
-spencer@spencer-it1 MINGW64 /f/myself/643435675.github.io (master)
+spencer@spencer-it1 MINGW64 /f/myself/1923244321.github.io (master)
 $ jekyll s
-Configuration file: F:/myself/643435675.github.io/_config.yml
-            Source: F:/myself/643435675.github.io
-       Destination: F:/myself/643435675.github.io/_site
+Configuration file: F:/myself/1923244321.github.io/_config.yml
+            Source: F:/myself/1923244321.github.io
+       Destination: F:/myself/1923244321.github.io/_site
  Incremental build: disabled. Enable with --incremental
       Generating...
                     done in 5.499 seconds.
   Please add the following to your Gemfile to avoid polling for changes:
     gem 'wdm', '>= 0.1.0' if Gem.win_platform?
- Auto-regeneration: enabled for 'F:/myself/643435675.github.io'
+ Auto-regeneration: enabled for 'F:/myself/1923244321.github.io'
     Server address: http://127.0.0.1:4001/
   Server running... press ctrl-c to stop.
 
 
-spencer@spencer-it1 MINGW64 /f/myself/643435675.github.io (master)
+spencer@spencer-it1 MINGW64 /f/myself/1923244321.github.io (master)
 $ jekyll serve
-Configuration file: F:/myself/643435675.github.io/_config.yml
-            Source: F:/myself/643435675.github.io
-       Destination: F:/myself/643435675.github.io/_site
+Configuration file: F:/myself/1923244321.github.io/_config.yml
+            Source: F:/myself/1923244321.github.io
+       Destination: F:/myself/1923244321.github.io/_site
  Incremental build: disabled. Enable with --incremental
       Generating...
                     done in 2.859 seconds.
   Please add the following to your Gemfile to avoid polling for changes:
     gem 'wdm', '>= 0.1.0' if Gem.win_platform?
- Auto-regeneration: enabled for 'F:/myself/643435675.github.io'
+ Auto-regeneration: enabled for 'F:/myself/1923244321.github.io'
     Server address: http://127.0.0.1:4001/
   Server running... press ctrl-c to stop.
 
 ```
 
 主要进行了以上操作：
-cd 643435675.github.io  文件夹下
+cd 1923244321.github.io  文件夹下
 
 执行命令：
 
